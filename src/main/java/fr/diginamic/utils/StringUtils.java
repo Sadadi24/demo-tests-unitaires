@@ -5,7 +5,7 @@ package fr.diginamic.utils;
  * 
  * @author DIGINAMIC
  */
-public final class StringUtils {
+final class StringUtils {
 
 	/**
 	 * Retourne la distance de Levenshtein entre 2 chaines de caractères
